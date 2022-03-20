@@ -1,9 +1,8 @@
 .Advertising {
     box-sizing: border-box;
-    display: inline-block;
-    margin: 16px;
+    margin: 8px;
     height: 100px;
-    width: 97.3%;
+    width: 98.7%;
     border: 3px solid #000000;
     background-color: #b4a7d6;
 }
