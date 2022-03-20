@@ -1,0 +1,9 @@
+.Main {
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    width: 75%;
+    border: 3px solid #000000;
+    background-color: #e06666;
+}

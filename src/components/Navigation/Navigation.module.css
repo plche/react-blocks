@@ -1,0 +1,12 @@
+.Navigation {
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    top: -94px;
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 400px;
+    width: 22%;
+    border: 3px solid #000000;
+    background-color: #6fa8dc;
+}
